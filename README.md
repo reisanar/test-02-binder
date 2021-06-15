@@ -2,9 +2,9 @@
 
 Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/reisanar/test-02-binder/master?filepath=index.ipynb)
 
-**RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/reisanar/test-02-binder/master?urlpath=rstudio)
+> **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/reisanar/test-02-binder/master?urlpath=rstudio)
 
-**RShiny**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/reisanar/test-02-binder/master?urlpath=shiny/test-01/)
+> **RShiny**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/reisanar/test-02-binder/master?urlpath=shiny/test-01/)
 
 Binder supports using R and RStudio, with libraries pinned to a specific 
 snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
